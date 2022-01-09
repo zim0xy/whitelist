@@ -1,0 +1,4 @@
+whitelist: false
+no_whitelisted: "&fВы не в вайтлисте, купите проходку на сайте &bsmp.zimoxy.ru"
+whitelisted:
+- "jadnast"

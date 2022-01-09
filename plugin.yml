@@ -1,0 +1,9 @@
+name: ZimoxyWhitelist
+version: 1.0.0
+author: Zimoxy
+main: com.gmail.jyckosianjaya.easywhitelist.EasyWhiteList
+description: Zimoxy Whitelist
+commands:
+   easywhitelist:
+         usage: /<command>
+         aliases: [zimoxy,zm,musiqq,jadnast,CYETOLOG,toxi-wizard]
